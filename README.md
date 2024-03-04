@@ -1,7 +1,6 @@
 ### Hi!
 > I'm a current CS student hoping to improve & learn!
 
-<!--
 ### ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Interests ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 > NLP 
 > Game Design
