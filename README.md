@@ -2,10 +2,7 @@
 > I'm a current CS student hoping to improve & learn!
 
 ### ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Interests ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
-> NLP 
-> Game Design
-> ML
+> NLP, Game Design
 
 ### ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ About Me ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
-> Currently an undergrad
-> I love learning new languages, both in the field of CS and in general linguistics
+> I'm currently an undergrad studying CS in hopes of applying it to linguistics! I love learning new languages, both in the field of CS and in general world languages.
